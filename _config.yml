@@ -1,7 +1,7 @@
 name: DUxDRx
 favicon: null
-layout_spectrum: 0.8437429268378764
-typography_spectrum: 0.8067521478515118
+layout_spectrum: 1
+typography_spectrum: 0.19387
 title: 'DUxDRx -- #remediate'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9311662304680794
-  lightness: 0.1717211923096329
-  saturation: 0.8644436963368207
+    - '#ffffff'
+    - '#cccccc'
+    - '#f1f1f1'
+    - '#000000'
+    - '#e4e4e4'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.6875
   rhythmicContrast: 0.976775363786146
 purpose: []
