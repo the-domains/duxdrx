@@ -4,8 +4,15 @@
         <description><![CDATA[DUxDRx -- #remediate]]></description>
         <link>https://thegrid.ai/duxdrx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 14:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 14:25:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/duxdrx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE MEDIA TEAM]]></title>
+            <description><![CDATA[<article><h1>THE MEDIA TEAM</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aee9ab67d4a5c04b28a1172bbb2b6d88d4da205.png"></article>]]></description>
+            <link>https://thegrid.ai/duxdrx/a546e338-c260-4333-8b76-295bb8896c10/index.html</link>
+            <guid isPermaLink="false">a546e338-c260-4333-8b76-295bb8896c10</guid>
+            <pubDate>Tue, 08 Mar 2016 14:25:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ccfcffa-5609-4abf-903f-fa6130f16f17.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/duxdrx/79d8ecb7-0daf-455c-b952-79e6be0446f3/index.html</link>
             <guid isPermaLink="false">79d8ecb7-0daf-455c-b952-79e6be0446f3</guid>
             <pubDate>Tue, 08 Mar 2016 14:25:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE MEDIA TEAM]]></title>
-            <description><![CDATA[<article><h1>THE MEDIA TEAM</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8aee9ab67d4a5c04b28a1172bbb2b6d88d4da205.png"></article>]]></description>
-            <link>https://thegrid.ai/duxdrx/a546e338-c260-4333-8b76-295bb8896c10/index.html</link>
-            <guid isPermaLink="false">a546e338-c260-4333-8b76-295bb8896c10</guid>
-            <pubDate>Tue, 08 Mar 2016 14:15:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
